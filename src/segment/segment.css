@@ -1,0 +1,61 @@
+.lefting{
+    margin:0 !important;
+    width:50vw !important;
+    height: 100vh !important;
+    left:22vw;
+}
+
+.btnplace{
+
+    margin: 100px 50px !important;
+    border-color:2px solid whitesmoke;
+  
+
+}
+
+/* .modalclose{
+
+
+
+} */
+
+.cont{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(231, 231, 231);
+}
+
+.headd{
+    background-color: rgb(6, 158, 143);
+    color:whitesmoke;
+    display: inline-block;
+}
+
+.linkk{
+  color: rgb(6, 158, 143);
+}
+
+.btn-secondary{
+    background-color: rgb(6, 158, 143) !important;
+    color:white !important;
+
+}
+
+.bordering{
+    border:2px solid rgb(14, 112, 145);
+    padding:20px;
+    margin:10px;
+}
+
+li{
+    margin:15px 0px;
+}
+
+.save{
+    display: inline;
+    margin-left: 30px;
+}
+
+.esc{
+    display: inline;
+}
